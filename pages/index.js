@@ -57,6 +57,8 @@ export default function Home() {
               priority
             />
           </div>
+          <div> By Darren Ma </div>
+                
         </div>
 
         <div className={styles.grid}>
